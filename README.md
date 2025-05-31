@@ -23,3 +23,5 @@ A simple 2D archery game built using HTML, CSS, and JavaScript. Aim your bow, sh
 
 ---
 
+**THANK YOU**
+
